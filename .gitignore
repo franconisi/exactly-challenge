@@ -351,3 +351,4 @@ MigrationBackup/
 
 cache/
 package-lock.json
+.env
